@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </h3>
 <a href="https://github.com/zhaocaimin">
     <div align="right" >
-        <img align="right" src="https://count.getloli.com/get/@:zhaocaimin" alt="汪荣顶" />
+        <img align="right" src="https://count.getloli.com/get/@:zhaocaimin" alt="赵才敏" />
     </div>
 </a>
 
